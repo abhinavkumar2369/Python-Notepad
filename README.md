@@ -66,6 +66,9 @@
 
 
 ## Screenshot 🖼️
+![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/4d5117f2-4761-48b9-91ca-bfa2b8d258fa)
+![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/cf13bccf-5767-4f34-abe6-15ef82336e60)
+![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/70df63d3-4aa1-4758-a1f3-9a80480f4d4f)
 
 
 <!------------------------------------------------->
@@ -74,11 +77,13 @@
 ## Installation ⚒️
 
 1. Clone the repository:
+   
    ```bash
-   git clone https://github.com/abhinav2369/Python-Notepad.git
+   git clone https://github.com/abhinavkumar2369/Python-Notepad.git
    ```
    
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   
    ```bash
    cd Python-Notepad
    ```
@@ -89,6 +94,7 @@
 ## Usage 🤖
 
 1. Run the script:
+
    ```bash
    python Source_Code.py
    ```
