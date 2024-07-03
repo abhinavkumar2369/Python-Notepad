@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 from tkinter import filedialog
 from tkinter import messagebox
+from tkinter import PhotoImage
 
 # --------------------------------------------------
 
@@ -52,7 +53,12 @@ def show_about():
 
 
 root = tk.Tk()
-root.title("Simple Text Editor")
+root.title("Notepad")
+
+logo = PhotoImage(file='logo.png')
+
+# Set the logo as the application icon
+root.iconphoto(False, logo)
 
 menu = tk.Menu(root)
 root.config(menu=menu)
