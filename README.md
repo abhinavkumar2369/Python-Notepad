@@ -1,6 +1,6 @@
 <div align="center">
      <h1 align="center">Python Notepad</h1>
-     <img src="https://github.com/abhinav2369/Python-Notepad/assets/170245635/b28d0b9c-7713-45f9-8b30-756cac557e10" height=90px width=90px/>
+     <img src="https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/b28d0b9c-7713-45f9-8b30-756cac557e10" height=90px width=90px/>
      <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Python-7F00FF?style=for-the-badge">
@@ -20,24 +20,24 @@
      <!-- --------------------------------------------- -->
      <br/>
      <!-- License -->
-     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinav2369/Python-Notepad">
+     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinavkumar2369/Python-Notepad">
      <br/>
      <!-- Commit Count -->
-     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinav2369/Python-Notepad/main">
+     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Python-Notepad/main">
      <!-- Repo Size -->
-     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinav2369/Python-Notepad?style=flat&color=orange">
+     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinavkumar2369/Python-Notepad?style=flat&color=orange">
      <!-- Repo Code -->
-     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinav2369/Python-Notepad">
+     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Python-Notepad">
      <br/>
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinav2369/Python-Notepad?style=flat&color=orange">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Python-Notepad?style=flat&color=orange">
      <!-- Language Count -->
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinav2369/Python-Notepad">
+     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Python-Notepad">
      <!-- Watchers -->
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinav2369/Python-Notepad?style=flat">
+     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Python-Notepad?style=flat">
      <!-- Forks -->
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinav2369/Python-Notepad?style=flat&color=orange">
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Python-Notepad?style=flat&color=orange">
      <br/>
-     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinav2369/Python-Notepad">
+     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinavkumar2369/Python-Notepad">
 </div>
 
 
@@ -66,9 +66,9 @@
 
 
 ## Screenshot 🖼️
-![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/4d5117f2-4761-48b9-91ca-bfa2b8d258fa)
-![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/cf13bccf-5767-4f34-abe6-15ef82336e60)
-![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/70df63d3-4aa1-4758-a1f3-9a80480f4d4f)
+![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/cd65f85c-9658-4fa5-949c-f6aca77831e9)
+![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/fecf977d-7328-4a10-bff8-8e7c9c6218f5)
+![image](https://github.com/abhinavkumar2369/Python-Notepad/assets/170245635/e392eee8-e54b-4c06-ab3b-a832e383b0f6)
 
 
 <!------------------------------------------------->
